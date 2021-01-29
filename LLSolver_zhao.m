@@ -1,7 +1,7 @@
 %Code is used to generate phase separation simulation. File will run
 %independently from user input or data files. Will output a 2D image 
 %of both phase separated species as subplots through time. 
-%Code was created by Dr. Jia Zhao for Gasior and Zhao et al. 2017 in PRE. 
+%Code was created by Dr. Jia Zhao in 2017 for Gasior and Zhao et al. in PRE (2019). 
 %Email: jia.zhao@usu.edu, kgasior@fsu.edu
 
 function  LLSolver()
